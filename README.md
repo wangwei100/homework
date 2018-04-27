@@ -8,3 +8,5 @@
 3. 修改成绩表单页面
 4. 成绩列表里有链接到修改页面
 5. 成绩列表里有删除成绩链接
+
+参考[这里](https://github.com/demohot/springmvc-mybatis-demo "链接")
